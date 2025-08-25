@@ -39,4 +39,8 @@ a{
     line-height: 1.6; /* 160% of font size */
     background-color: rgb(255, 250, 240);
     text-align: center;
+
+}
+li{
+    text-aling: center;
 }
